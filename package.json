@@ -1,6 +1,6 @@
 {
   "name": "@react-element/suspend-till-window-onload",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.0",
   "description": "降低优先级, 等到 window.onload 后再 mount",
   "author": "jf3096",
   "license": "MIT",
